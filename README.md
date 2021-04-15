@@ -1,0 +1,2 @@
+# EmojiInterpreterApp
+Created with CodeSandbox
